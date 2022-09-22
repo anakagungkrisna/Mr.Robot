@@ -1,0 +1,2 @@
+I2C connection:
+https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/
